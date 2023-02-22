@@ -1,8 +1,8 @@
-#include <stdio.h>
+#include <stdio.h> 
 
 int main()
 {
-   int m, n, p, c, d, k, sum = 0; //q43
+   int m, n, p, c, d, k, sum = 0; //q43}jh
 
    int first[10][10], second[10][10], multiply[10][10];
 
